@@ -1,4 +1,4 @@
-FROM openjdk:26-jdk-slim
+FROM openjdk:8-jre-alpine
 
 EXPOSE 8080
 
