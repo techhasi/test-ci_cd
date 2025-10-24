@@ -1,4 +1,4 @@
-FROM openjdk:26-slim
+FROM openjdk:26-jdk-slim
 
 EXPOSE 8080
 
